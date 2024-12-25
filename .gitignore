@@ -10,6 +10,9 @@ bazel-*
 *.metallib
 *.air
 
+# Bazel
+MODULE.bazel.lock
+
 # CMake
 CMakeLists.txt.user
 CMakeCache.txt
